@@ -1,0 +1,19 @@
+.background-sunny {
+  background: linear-gradient(to bottom, #87ceeb, #fefbd8);
+}
+
+.background-night {
+  background: linear-gradient(to bottom, #000033, #000066);
+}
+
+.background-windy {
+  background: linear-gradient(to bottom, #a0d8ef, #d2f5e3);
+}
+
+.background-rainy {
+  background: linear-gradient(to bottom, #2f4f4f, #4f4f4f);
+}
+
+.background-cloudy {
+  background: linear-gradient(to bottom, #d3d3d3, #f5f5f5);
+}
